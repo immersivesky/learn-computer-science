@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "acb7044f64736d67",
+        "id": "7d2577d3e9a2917b",
         "type": "tabs",
         "children": [
           {
-            "id": "895b40e0929a2e71",
+            "id": "fea7c1398f5cae69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Что такое структура данных.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Structures/Что такое структура данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Structures/Что такое структура данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Structures/Что такое структура данных.md"
+              }
             }
           }
         ]
@@ -138,34 +146,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "895b40e0929a2e71",
+  "active": "fea7c1398f5cae69",
   "lastOpenFiles": [
-    "Data Structures/Что такое структура данных.md",
-    "Data Structures/Linked List/Асимптотическая сложность связанного списка.md",
+    "Data Structures/Array/Что такое массив.md",
     "Data Structures/Array/Асимптотическая сложность массива.md",
-    "Data Structures/Linked List/Что такое связанный список.md",
-    "Data Structures/Hash Map/Что такое хэш-карта.md",
-    "Data Structures/Hash Map/Что такое алгоритм хэширования.md",
-    "Data Structures/Hash Map/Чтение ключа хэш-карты.md",
-    "Data Structures/Hash Map/Чем является хэш-карта.md",
-    "Data Structures/Hash Map/Collision/Что происходит при коллизии хэш-карты.md",
-    "Data Structures/Hash Map/Collision/Что такое коллизия хэш-карты.md",
-    "Data Structures/Hash Map/Bucket/Что происходит при повторе ключа ведра.md",
-    "Data Structures/Hash Map/Bucket/Что такое ведро хэш-карты.md",
-    "Data Structures/Graph/Что такое степень вершины графа.md",
-    "Data Structures/Graph/Что такое ребро графа.md",
-    "Data Structures/Graph/Что такое граф.md",
-    "Data Structures/Graph/Что такое вершина графа.md",
-    "Data Structures/Graph/Уравнение графа.md",
-    "Data Structures/Graph/Кто открыл теорию графов.md",
-    "Data Structures/Graph/Когда открыли теорию графов.md",
-    "Data Structures/Graph/Какой вид графа использует Twitter.md",
-    "Data Structures/Graph/Какой вид графа использует Facebook.md",
+    "Data Structures/Tree/Binary/Что такое правило вправо-влево бинарного дерева.md",
+    "Data Structures/Tree/Binary/Что такое бинарное дерево.md",
+    "Data Structures/Что такое структура данных.md",
+    "Data Structures/Tree/Что такое родитель дерева.md",
+    "Data Structures/Tree/Что такое поддерево.md",
+    "Data Structures/Tree/Что такое лист дерева.md",
+    "Data Structures/Tree/Что такое корень дерева.md",
+    "Data Structures/Tree/Что такое дерево.md",
+    "Data Structures/Tree/Что такое глубина дерева.md",
+    "Data Structures/Tree/Что такое ветка дерева.md",
+    "Data Structures/Tree/Где используется дерево.md",
+    "Data Structures/Tree/Виды деревьев.md",
+    "Data Structures/Graph/Directed/Что такое ориентированный граф.md",
+    "Data Structures/Graph/Undirected/Что такое неориентированный граф.md",
     "Data Structures/Graph/Виды графов.md",
+    "Data Structures/Graph/Euler/Что такое Эйлеров граф.md",
+    "Data Structures/Graph/Euler/Что такое Эйлерова цепь.md",
     "Data Structures/Graph/Theorems/Königsberg Bridges/Зачем решали задачу Кёнигсбергских мостов.md",
     "Data Structures/Graph/Theorems/Königsberg Bridges/Кто решал задачу Кёнигсбергских мостов.md",
     "Data Structures/Graph/Theorems/Königsberg Bridges/Результат задачи Кёнигсбергских мостов.md",
     "Data Structures/Graph/Theorems/Königsberg Bridges/Что такое задача Кёнигсбергских мостов.md",
+    "Data Structures/Graph/Theorems/Königsberg Bridges/Этапы решения задачи Кёнигсбергских мостов.md",
+    "Data Structures/Graph/Какой вид графа использует Facebook.md",
+    "Data Structures/Graph/Какой вид графа использует Twitter.md",
     "Data Structures/Graph/Theorems/Königsberg Bridges",
     "Data Structures/Graph/Euler",
     "Data Structures/Graph/Theorems",
