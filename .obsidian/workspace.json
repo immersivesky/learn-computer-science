@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "eee2c1f70034cc45",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ae4e63e50bcd329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eaec069dec4d18f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38edcfa511fe19eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d40f4f58d4df5759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e38d3dff705ce0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ceb7c19f432a96a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51ca0344b87bc0f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8898feaf8f8254db",
+    "type": "split",
+    "children": [
+      {
+        "id": "194856ce2f1e9a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "248496df056ee7ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aea04293521323d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d38c7131a492a81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63e44ee6846af070",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "6eaec069dec4d18f",
+  "lastOpenFiles": [
+    "Data Structures/Hash Map/Что такое хэш-карта.md",
+    "Data Structures/Hash Map/Collision/Что такое коллизия хэш-карты.md",
+    "Data Structures/Hash Map/Bucket/Что такое ведро хэш-карты.md",
+    "Data Structures/Hash Map/Bucket/Что происходит при повторе ключа ведра.md",
+    "Data Structures/Что такое структура данных.md",
+    "Data Structures/Graph/Что такое граф.md",
+    "Data Structures/Graph/Что такое степень вершины графа.md",
+    "Data Structures/Graph/Что такое ребро графа.md",
+    "Data Structures/Graph/Что такое вершина графа.md",
+    "Data Structures/Graph/Какой вид графа использует Facebook.md",
+    "Data Structures/Graph/Виды графов.md",
+    "Data Structures/Graph/Theorems/Königsberg Bridges/Результат задачи Кёнигсбергских мостов.md",
+    "Data Structures/Graph/Theorems/Königsberg Bridges/Что такое задача Кёнигсбергских мостов.md",
+    "Data Structures/Graph/Theorems/Königsberg Bridges/Зачем решали задачу Кёнигсбергских мостов.md",
+    "Data Structures/Graph/Theorems/Königsberg Bridges/Кто решал задачу Кёнигсбергских мостов.md",
+    "Data Structures/Graph/Theorems/Königsberg Bridges/Этапы решения задачи Кёнигсбергских мостов.md",
+    "Data Structures/Graph/Уравнение графа.md",
+    "Data Structures/Graph/Кто открыл теорию графов.md",
+    "Data Structures/Graph/Когда открыли теорию графов.md",
+    "Data Structures/Graph/Какой вид графа использует Twitter.md",
+    "Data Structures/Graph/Undirected/Что такое неориентированный граф.md",
+    "Data Structures/Graph/Directed/Что такое ориентированный граф.md",
+    "Data Structures/Tree/Что такое дерево.md",
+    "Data Structures/Tree/Что такое поддерево.md",
+    "Data Structures/Tree/Виды деревьев.md",
+    "Data Structures/Graph/Euler/Что такое Эйлерова цепь.md",
+    "Data Structures/Graph/Theorems/Königsberg Bridges",
+    "Data Structures/Graph/Euler",
+    "Data Structures/Graph/Theorems",
+    "Data Structures/Graph/Directed",
+    "Data Structures/Graph/Undirected",
+    "Data Structures/Tree/Без названия",
+    "Data Structures/Tree/Parents",
+    "Pasted image 20240321174622.png",
+    "Data Structures/Tree/Binary",
+    "Data Structures/Hash Map/Collision",
+    "Data Structures/Hash Map/Bucket"
+  ]
+}

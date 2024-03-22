@@ -1,0 +1,84 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasBridge",
+      "TiDirectionArrows",
+      "TiDirection",
+      "TiDirectionSign",
+      "FasDownLeftAndUpRightToCenter"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Data Structures": "TiSchema",
+  "Algorithms": "SiThealgorithms",
+  "Data Structures/Array": {
+    "iconName": "LiSquareStack",
+    "iconColor": "#e1efff"
+  },
+  "Data Structures/Graph": {
+    "iconName": "SiGraphql",
+    "iconColor": "#ff00ac"
+  },
+  "Data Structures/Hash Map": {
+    "iconName": "BoBxCollection",
+    "iconColor": "#ff5343"
+  },
+  "Data Structures/Linked List": {
+    "iconName": "LiListEnd",
+    "iconColor": "#00bdff"
+  },
+  "Data Structures/Tree": {
+    "iconName": "IbTreeMapDown",
+    "iconColor": "#abff35"
+  },
+  "Data Structures/Hash Map/Bucket": {
+    "iconName": "TiBucket",
+    "iconColor": "#00ffdd"
+  },
+  "Data Structures/Hash Map/Collision": {
+    "iconName": "TiCarouselHorizontal",
+    "iconColor": "#ffe600"
+  },
+  "Data Structures/Tree/Binary": {
+    "iconName": "TiBinaryTree",
+    "iconColor": "#ffba11"
+  },
+  "Data Structures/Graph/Euler": {
+    "iconName": "LiUser",
+    "iconColor": "#0097ff"
+  },
+  "Data Structures/Graph/Theorems": {
+    "iconName": "FasPeopleRoof",
+    "iconColor": "#c5ff00"
+  },
+  "Data Structures/Graph/Undirected": {
+    "iconName": "TiDirectionArrows",
+    "iconColor": "#ff0090"
+  },
+  "Data Structures/Graph/Directed": {
+    "iconName": "TiDirectionSign",
+    "iconColor": "#ffdf00"
+  },
+  "Data Structures/Graph/Theorems/Königsberg Bridges": {
+    "iconName": "FasBridge",
+    "iconColor": "#f40000"
+  }
+}
